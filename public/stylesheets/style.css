@@ -7,6 +7,10 @@ a {
   	color: #00B7FF;
 }
 
+.active>a {
+	color: #1abc9c !important;;
+}
+
 .bg-3 { 
   	background-color: #ffffff;
   	color: #555555;
@@ -31,6 +35,3 @@ a {
   	color: #1abc9c !important;
 }
 
-.active>a {
-	color: #1abc9c !important;;
-}
